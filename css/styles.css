@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 body{
-            background-image: image("/home/takezo/code/WebDev/pixelcove/PixelCove/img/hudson.jpg");
+            background-image: image("PixelCove/img/hudson.jpg");
             background-attachment: fixed;
             background-size: cover;
             padding:10px 10px;
@@ -118,7 +118,7 @@ h1:hover{
     transform: scale(1.10);
   }
 }
-/*Note: RAD AS FUCK*/
+/*Note: RAD AS FUCK - I wrote this a long time ago*/
 @keyframes hackerFlash{
   0%{
     color: rgb(0, 255, 0);
